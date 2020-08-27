@@ -63,3 +63,13 @@ person = {
     'Country': 'India'
 }
 print(person['name'])
+
+# If ... Else
+a = 10
+b = 10
+if a < b :
+    print('A Lessthan B')
+elif a == b:
+    print('A is equal to B')
+else :
+    print('A is Graterthan B')
